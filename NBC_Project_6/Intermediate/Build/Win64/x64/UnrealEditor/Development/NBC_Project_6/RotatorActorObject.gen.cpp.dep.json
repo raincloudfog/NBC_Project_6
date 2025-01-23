@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\qordl\\documents\\unreal projects\\nbc_project_6\\intermediate\\build\\win64\\unrealeditor\\inc\\nbc_project_6\\uht\\rotatoractorobject.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\qordl\\documents\\unreal projects\\nbc_project_6\\intermediate\\build\\win64\\x64\\nbc_project_6editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\qordl\\documents\\unreal projects\\nbc_project_6\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\nbc_project_6\\definitions.nbc_project_6.h",
+            "c:\\users\\qordl\\documents\\unreal projects\\nbc_project_6\\source\\nbc_project_6\\public\\rotatoractorobject.h",
+            "c:\\users\\qordl\\documents\\unreal projects\\nbc_project_6\\intermediate\\build\\win64\\unrealeditor\\inc\\nbc_project_6\\uht\\rotatoractorobject.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

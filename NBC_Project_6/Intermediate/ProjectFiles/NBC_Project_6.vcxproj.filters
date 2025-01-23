@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\NBC_Project_6.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\NBC_Project_6.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\NBC_Project_6Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\NBC_Project_6">
+      <UniqueIdentifier>{CD027E8D-11B2-3767-9E26-BE6B0215AA09}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\NBC_Project_6\NBC_Project_6.Build.cs">
+      <Filter>Source\NBC_Project_6</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\NBC_Project_6\NBC_Project_6.cpp">
+      <Filter>Source\NBC_Project_6</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\NBC_Project_6\NBC_Project_6.h">
+      <Filter>Source\NBC_Project_6</Filter>
+    </ClCompile>
+    <Filter Include="Source\NBC_Project_6\Private">
+      <UniqueIdentifier>{1DF7287C-59D1-3436-9FBD-A2A7FC8A11A2}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\NBC_Project_6\Private\ActorObjectPool.cpp">
+      <Filter>Source\NBC_Project_6\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\NBC_Project_6\Private\NBC_Interface.cpp">
+      <Filter>Source\NBC_Project_6\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\NBC_Project_6\Private\NBC_MoveActor.cpp">
+      <Filter>Source\NBC_Project_6\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\NBC_Project_6\Private\NBC_MoveMentActor.cpp">
+      <Filter>Source\NBC_Project_6\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\NBC_Project_6\Private\NBC_Rotator_Actor.cpp">
+      <Filter>Source\NBC_Project_6\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\NBC_Project_6\Private\RotatorActorObject.cpp">
+      <Filter>Source\NBC_Project_6\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\NBC_Project_6\Private\SpawnManager.cpp">
+      <Filter>Source\NBC_Project_6\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\NBC_Project_6\Private\SpawnManager.h">
+      <Filter>Source\NBC_Project_6\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\NBC_Project_6\Public">
+      <UniqueIdentifier>{F4829EE1-D664-3EBA-82E3-637B6303BDAA}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\NBC_Project_6\Public\ActorObjectPool.h">
+      <Filter>Source\NBC_Project_6\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\NBC_Project_6\Public\NBC_Interface.h">
+      <Filter>Source\NBC_Project_6\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\NBC_Project_6\Public\NBC_MoveActor.h">
+      <Filter>Source\NBC_Project_6\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\NBC_Project_6\Public\NBC_MoveMentActor.h">
+      <Filter>Source\NBC_Project_6\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\NBC_Project_6\Public\NBC_Rotator_Actor.h">
+      <Filter>Source\NBC_Project_6\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\NBC_Project_6\Public\RotatorActorObject.h">
+      <Filter>Source\NBC_Project_6\Public</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
