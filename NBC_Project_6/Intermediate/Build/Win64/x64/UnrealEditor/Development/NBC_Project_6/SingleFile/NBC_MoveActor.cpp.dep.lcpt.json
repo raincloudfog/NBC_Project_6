@@ -1,12 +1,12 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\qordl\\documents\\unreal projects\\nbc_project_6\\source\\nbc_project_6\\private\\nbc_moveactor.cpp",
+        "Source": "c:\\users\\qordl\\documents\\github\\nbc_project_6\\nbc_project_6\\source\\nbc_project_6\\private\\nbc_moveactor.cpp",
         "ProvidedModule": "",
         "Includes": [
-            "c:\\users\\qordl\\documents\\unreal projects\\nbc_project_6\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\nbc_project_6\\definitions.nbc_project_6.h",
-            "c:\\users\\qordl\\documents\\unreal projects\\nbc_project_6\\intermediate\\build\\win64\\x64\\nbc_project_6editor\\development\\unrealed\\shareddefinitions.unrealed.project.valapi.cpp20.h",
-            "c:\\users\\qordl\\documents\\unreal projects\\nbc_project_6\\source\\nbc_project_6\\public\\nbc_moveactor.h",
+            "c:\\users\\qordl\\documents\\github\\nbc_project_6\\nbc_project_6\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\nbc_project_6\\definitions.nbc_project_6.h",
+            "c:\\users\\qordl\\documents\\github\\nbc_project_6\\nbc_project_6\\intermediate\\build\\win64\\x64\\nbc_project_6editor\\development\\unrealed\\shareddefinitions.unrealed.project.valapi.cpp20.h",
+            "c:\\users\\qordl\\documents\\github\\nbc_project_6\\nbc_project_6\\source\\nbc_project_6\\public\\nbc_moveactor.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\coreminimal.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\coretypes.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\platform.h",
@@ -439,7 +439,7 @@
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\algo\\impl\\rangepointertype.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\math\\ray.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\math\\vector2dhalf.h",
-            "c:\\users\\qordl\\documents\\unreal projects\\nbc_project_6\\source\\nbc_project_6\\public\\nbc_movementactor.h",
+            "c:\\users\\qordl\\documents\\github\\nbc_project_6\\nbc_project_6\\source\\nbc_project_6\\public\\nbc_movementactor.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\actor.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\stats\\stats.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\platformtime.h",
@@ -673,8 +673,8 @@
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\misc\\paths.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\public\\worldpartition\\worldpartitionactordesctype.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\actor.generated.h",
-            "c:\\users\\qordl\\documents\\unreal projects\\nbc_project_6\\intermediate\\build\\win64\\unrealeditor\\inc\\nbc_project_6\\uht\\nbc_movementactor.generated.h",
-            "c:\\users\\qordl\\documents\\unreal projects\\nbc_project_6\\intermediate\\build\\win64\\unrealeditor\\inc\\nbc_project_6\\uht\\nbc_moveactor.generated.h"
+            "c:\\users\\qordl\\documents\\github\\nbc_project_6\\nbc_project_6\\intermediate\\build\\win64\\unrealeditor\\inc\\nbc_project_6\\uht\\nbc_movementactor.generated.h",
+            "c:\\users\\qordl\\documents\\github\\nbc_project_6\\nbc_project_6\\intermediate\\build\\win64\\unrealeditor\\inc\\nbc_project_6\\uht\\nbc_moveactor.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

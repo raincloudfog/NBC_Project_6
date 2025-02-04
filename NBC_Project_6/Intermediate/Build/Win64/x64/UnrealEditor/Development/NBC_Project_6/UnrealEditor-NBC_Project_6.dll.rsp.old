@@ -37,6 +37,7 @@
 /FUNCTIONPADMIN:6
 /NOIMPLIB
 "C:\Users\qordl\Documents\Unreal Projects\NBC_Project_6\Intermediate\Build\Win64\x64\NBC_Project_6Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\qordl\Documents\Unreal Projects\NBC_Project_6\Intermediate\Build\Win64\x64\UnrealEditor\Development\NBC_Project_6\ActorObjectPool.gen.cpp.obj"
 "C:\Users\qordl\Documents\Unreal Projects\NBC_Project_6\Intermediate\Build\Win64\x64\UnrealEditor\Development\NBC_Project_6\NBC_Interface.gen.cpp.obj"
 "C:\Users\qordl\Documents\Unreal Projects\NBC_Project_6\Intermediate\Build\Win64\x64\UnrealEditor\Development\NBC_Project_6\NBC_MoveActor.gen.cpp.obj"
 "C:\Users\qordl\Documents\Unreal Projects\NBC_Project_6\Intermediate\Build\Win64\x64\UnrealEditor\Development\NBC_Project_6\NBC_MoveMentActor.gen.cpp.obj"
@@ -45,6 +46,7 @@
 "C:\Users\qordl\Documents\Unreal Projects\NBC_Project_6\Intermediate\Build\Win64\x64\UnrealEditor\Development\NBC_Project_6\RotatorActorObject.gen.cpp.obj"
 "C:\Users\qordl\Documents\Unreal Projects\NBC_Project_6\Intermediate\Build\Win64\x64\UnrealEditor\Development\NBC_Project_6\SpawnManager.gen.cpp.obj"
 "C:\Users\qordl\Documents\Unreal Projects\NBC_Project_6\Intermediate\Build\Win64\x64\UnrealEditor\Development\NBC_Project_6\NBC_Project_6.cpp.obj"
+"C:\Users\qordl\Documents\Unreal Projects\NBC_Project_6\Intermediate\Build\Win64\x64\UnrealEditor\Development\NBC_Project_6\ActorObjectPool.cpp.obj"
 "C:\Users\qordl\Documents\Unreal Projects\NBC_Project_6\Intermediate\Build\Win64\x64\UnrealEditor\Development\NBC_Project_6\NBC_Interface.cpp.obj"
 "C:\Users\qordl\Documents\Unreal Projects\NBC_Project_6\Intermediate\Build\Win64\x64\UnrealEditor\Development\NBC_Project_6\NBC_MoveActor.cpp.obj"
 "C:\Users\qordl\Documents\Unreal Projects\NBC_Project_6\Intermediate\Build\Win64\x64\UnrealEditor\Development\NBC_Project_6\NBC_MoveMentActor.cpp.obj"

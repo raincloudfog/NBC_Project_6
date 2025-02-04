@@ -1,12 +1,12 @@
-"C:\Users\qordl\Documents\Unreal Projects\NBC_Project_6\Source\NBC_Project_6\Private\ActorObjectPool.cpp"
-/FI"C:\Users\qordl\Documents\Unreal Projects\NBC_Project_6\Intermediate\Build\Win64\x64\NBC_Project_6Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/FI"C:\Users\qordl\Documents\Unreal Projects\NBC_Project_6\Intermediate\Build\Win64\x64\UnrealEditor\Development\NBC_Project_6\Definitions.NBC_Project_6.h"
-/Yu"C:\Users\qordl\Documents\Unreal Projects\NBC_Project_6\Intermediate\Build\Win64\x64\NBC_Project_6Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/Fp"C:\Users\qordl\Documents\Unreal Projects\NBC_Project_6\Intermediate\Build\Win64\x64\NBC_Project_6Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
-/Fo"C:\Users\qordl\Documents\Unreal Projects\NBC_Project_6\Intermediate\Build\Win64\x64\UnrealEditor\Development\NBC_Project_6\ActorObjectPool.cpp.obj"
-/experimental:log "C:\Users\qordl\Documents\Unreal Projects\NBC_Project_6\Intermediate\Build\Win64\x64\UnrealEditor\Development\NBC_Project_6\ActorObjectPool.cpp.sarif"
-/sourceDependencies "C:\Users\qordl\Documents\Unreal Projects\NBC_Project_6\Intermediate\Build\Win64\x64\UnrealEditor\Development\NBC_Project_6\ActorObjectPool.cpp.dep.json"
-@"C:\Users\qordl\Documents\Unreal Projects\NBC_Project_6\Intermediate\Build\Win64\x64\UnrealEditor\Development\NBC_Project_6\NBC_Project_6.Shared.rsp"
+"C:\Users\qordl\Documents\GitHub\NBC_Project_6\NBC_Project_6\Source\NBC_Project_6\Private\ActorObjectPool.cpp"
+/FI"C:\Users\qordl\Documents\GitHub\NBC_Project_6\NBC_Project_6\Intermediate\Build\Win64\x64\NBC_Project_6Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/FI"C:\Users\qordl\Documents\GitHub\NBC_Project_6\NBC_Project_6\Intermediate\Build\Win64\x64\UnrealEditor\Development\NBC_Project_6\Definitions.NBC_Project_6.h"
+/Yu"C:\Users\qordl\Documents\GitHub\NBC_Project_6\NBC_Project_6\Intermediate\Build\Win64\x64\NBC_Project_6Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/Fp"C:\Users\qordl\Documents\GitHub\NBC_Project_6\NBC_Project_6\Intermediate\Build\Win64\x64\NBC_Project_6Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
+/Fo"C:\Users\qordl\Documents\GitHub\NBC_Project_6\NBC_Project_6\Intermediate\Build\Win64\x64\UnrealEditor\Development\NBC_Project_6\ActorObjectPool.cpp.obj"
+/experimental:log "C:\Users\qordl\Documents\GitHub\NBC_Project_6\NBC_Project_6\Intermediate\Build\Win64\x64\UnrealEditor\Development\NBC_Project_6\ActorObjectPool.cpp.sarif"
+/sourceDependencies "C:\Users\qordl\Documents\GitHub\NBC_Project_6\NBC_Project_6\Intermediate\Build\Win64\x64\UnrealEditor\Development\NBC_Project_6\ActorObjectPool.cpp.dep.json"
+@"C:\Users\qordl\Documents\GitHub\NBC_Project_6\NBC_Project_6\Intermediate\Build\Win64\x64\UnrealEditor\Development\NBC_Project_6\NBC_Project_6.Shared.rsp"
 /d2ssa-cfg-question-
 /Zc:inline
 /nologo

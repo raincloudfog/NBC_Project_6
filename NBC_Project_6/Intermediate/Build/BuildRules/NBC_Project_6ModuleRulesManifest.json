@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\qordl\\Documents\\Unreal Projects\\NBC_Project_6\\Source\\NBC_Project_6\\NBC_Project_6.Build.cs",
-		"C:\\Users\\qordl\\Documents\\Unreal Projects\\NBC_Project_6\\Source\\NBC_Project_6.Target.cs",
-		"C:\\Users\\qordl\\Documents\\Unreal Projects\\NBC_Project_6\\Source\\NBC_Project_6Editor.Target.cs"
+		"C:\\Users\\qordl\\Documents\\GitHub\\NBC_Project_6\\NBC_Project_6\\Source\\NBC_Project_6\\NBC_Project_6.Build.cs",
+		"C:\\Users\\qordl\\Documents\\GitHub\\NBC_Project_6\\NBC_Project_6\\Source\\NBC_Project_6.Target.cs",
+		"C:\\Users\\qordl\\Documents\\GitHub\\NBC_Project_6\\NBC_Project_6\\Source\\NBC_Project_6Editor.Target.cs"
 	],
-	"EngineVersion": "5.5.1"
+	"EngineVersion": "5.5.2"
 }
